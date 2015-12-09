@@ -1,0 +1,11 @@
+    <!DOCTYPE html>
+    <html style="height: 100%; overflow: hidden;">
+        <body style="height: 100%; margin: 0">
+            <iframe id="hirodai"
+                    src="https://human.biodigital.com/widget/?m=cochlear_implant&dk=902e6e607ae1e846469dad2d7cf3f2feb359691a"
+                    width="100%"
+                    height="100%">
+            </iframe>
+            <script src="https://human-api.biodigital.com/build/1.2.1/human-api-1.2.1.min.js"></script>
+        </body>
+    </html>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\OpenSim 3.3\sdk\APIExamples\ExampleMain\TugOfWar1_CreateModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\OpenSim 3.3\sdk\APIExamples\ExampleMain\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{48B4F574-0292-3611-BDD1-08F041F8090A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
